@@ -1,5 +1,6 @@
 from collections import deque
 from pathlib import Path
+import requests
 
 import os
 import sys
